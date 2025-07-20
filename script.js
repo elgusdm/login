@@ -1,7 +1,7 @@
 function login() {
     var uname = document.getElementById('user').value;
     var password = document.getElementById('pass').value;
-    if (uname == "Ajmal" && password == 'Ajmal07') {
+    if (uname == "elgusdm" && password == 'elgusdm03') {
         alert('Successfully Verified');
         return true;
     } else {
